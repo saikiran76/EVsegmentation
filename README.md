@@ -1,4 +1,4 @@
-# EVsegmentation
+# Electric Vehicle segmentation
 Breaking down the problem, Based on the data collected on the Electric Vehicles, we have different properties of the cars like Boot space (storage space), Range (Number of km per full charge), Transmission (ex: Manual, Automatic), etc.
 First, We can Analyze the cars which have more storage space (to carry cargo) based on the Boot Space value of cars. Analyzing the cars which have more Range. 
 Analyze other properties of cars like Transmission type. Analyze the properties like Boot Space, Range w.r.t the Car style (Suden, SUV, etc) After statistical analysis (Descriptive analysis, EDA) and bivariate analysis, we performed segment extraction.
